@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" modified="2020-10-19T10:32:01.851Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="HrwSm4lsRCR3_xPVRBFB" version="13.7.7" type="github">
+  <diagram id="gjIg6pSjNOplXSVYZrqV" name="Page-1">
+    <mxGraphModel dx="1026" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-1" value="&lt;span&gt;NAME: DUBIA&lt;br&gt;&lt;/span&gt;COUNTRY-ID: 2&lt;br&gt;&lt;span&gt;VISITED: FALSE&lt;/span&gt;&lt;br&gt;&lt;span&gt;ID: 5&lt;/span&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="480" y="40" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-2" value="NAME: UAE&lt;br&gt;ID: 2" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="110" y="40" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-3" value="CITY:DUBAI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-4" value="COUNTRY:UAE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-8" value="BEHAVIOUR: MARK_VISITED()" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="220" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-9" value="" style="shape=flexArrow;endArrow=classic;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="160" as="sourcePoint" />
+            <mxPoint x="360" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-10" value="CLASS NAME" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="358.5" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-11" value="" style="endArrow=classic;html=1;" parent="1" source="ATJCy0zCCfUUiXhRFyXF-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="140" as="sourcePoint" />
+            <mxPoint x="477" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-12" value="" style="endArrow=classic;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ATJCy0zCCfUUiXhRFyXF-10" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="140" as="sourcePoint" />
+            <mxPoint x="360" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-13" value="" style="endArrow=classic;html=1;entryX=-0.012;entryY=0.65;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ATJCy0zCCfUUiXhRFyXF-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="280" as="sourcePoint" />
+            <mxPoint x="470" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-14" value="" style="endArrow=classic;html=1;entryX=1.013;entryY=0.658;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="ATJCy0zCCfUUiXhRFyXF-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="280" as="sourcePoint" />
+            <mxPoint x="440" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-15" value="ATTRIBUTES&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="290" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ATJCy0zCCfUUiXhRFyXF-17" value="Dubai is a city in UAE. The city is linked to its country ID&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="100" width="110" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
